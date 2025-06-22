@@ -1,2 +1,3 @@
 ||firebaseremoteconfigrealtime.googleapis.com^
 ||homedepot.com^
+||gateway.fe2.apple-dns.net^
