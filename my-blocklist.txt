@@ -1,3 +1,4 @@
 ||firebaseremoteconfigrealtime.googleapis.com^
 ||homedepot.com^
 ||gateway.fe2.apple-dns.net^
+||bag-cdn.itunes-apple.com.akadns.net^
