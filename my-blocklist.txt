@@ -2,4 +2,3 @@
 ||homedepot.com^
 ||gateway.fe2.apple-dns.net^
 ||bag-cdn.itunes-apple.com.akadns.net^
-||gateway.fe2.apple-dns.net^
