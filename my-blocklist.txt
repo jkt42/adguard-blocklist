@@ -1,1 +1,2 @@
 ||firebaseremoteconfigrealtime.googleapis.com^
+||homedepot.com^
