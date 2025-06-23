@@ -4,3 +4,4 @@
 ||bag-cdn.itunes-apple.com.akadns.net^
 ||apple-dns.net^
 ||proxy.safebrowsing.apple^
+||safebrowsing-proxy.g.aaplimg.com^
