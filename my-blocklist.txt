@@ -6,3 +6,4 @@
 ||proxy.safebrowsing.apple^
 ||safebrowsing-proxy.g.aaplimg.com^
 ||proxy.safebrowsing.apple^$important,redirect=0.0.0.0
+||safebrowsing-proxy.g.aaplimg.com^$important,redirect=0.0.0.0
