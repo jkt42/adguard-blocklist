@@ -5,3 +5,4 @@
 ||apple-dns.net^
 ||proxy.safebrowsing.apple^
 ||safebrowsing-proxy.g.aaplimg.com^
+||proxy.safebrowsing.apple^$important,redirect=0.0.0.0
