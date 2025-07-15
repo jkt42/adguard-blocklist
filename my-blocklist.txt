@@ -1,5 +1,4 @@
 ||firebaseremoteconfigrealtime.googleapis.com^
-||homedepot.com^
 ||gateway.fe2.apple-dns.net^
 ||bag-cdn.itunes-apple.com.akadns.net^
 ||apple-dns.net^
@@ -7,3 +6,29 @@
 ||safebrowsing-proxy.g.aaplimg.com^
 ||proxy.safebrowsing.apple^$important,redirect=0.0.0.0
 ||safebrowsing-proxy.g.aaplimg.com^$important,redirect=0.0.0.0
+||mask.icloud.com^
+||mask-h2.icloud.com^
+||mask.apple-dns.net^
+||mask.icloud-dns.com^
+||relay.icloud.com^
+||relay.apple-dns.net^
+||relay.icloud-dns.com^
+||pr-relay.apple.com^
+||gateway.fe.apple-dns.net^
+||apple-relay.cloudflare.com^
+
+
+############################
+# BLOCK iCloud Private Relay
+############################
+
+||mask.icloud.com^
+||mask-h2.icloud.com^
+||mask.apple-dns.net^
+||mask.icloud-dns.com^
+||relay.icloud.com^
+||relay.apple-dns.net^
+||relay.icloud-dns.com^
+||pr-relay.apple.com^
+||gateway.fe.apple-dns.net^
+||gateway.fe2.apple-dns.net^
