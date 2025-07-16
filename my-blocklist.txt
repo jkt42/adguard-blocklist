@@ -16,6 +16,9 @@
 ||pr-relay.apple.com^
 ||gateway.fe.apple-dns.net^
 ||apple-relay.cloudflare.com^
+||mask-api.icloud.com^
+||mask-api.fe2.apple-dns.net^
+||apple-relay.cloudflare.com^
 
 
 ############################
